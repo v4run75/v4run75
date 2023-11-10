@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Varun's GitHub stats](https://github-readme-stats-v4run75.vercel.app/api?username=v4run75)](https://github.com/v4run75/github-readme-stats)
+[![Varun's GitHub stats](https://github-readme-stats-v4run75.vercel.app/api?username=v4run75)](https://github.com/v4run75/github-readme-stats)]
 
 
 <div align="center">
