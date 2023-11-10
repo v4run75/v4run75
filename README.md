@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=v4run75&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> <br>
-  [![Varun's GitHub stats](https://github-readme-stats-gamma-navy.vercel.app/api?username=v4run75)](https://github.com/v4run75/github-readme-stats)
+  [![Varun's GitHub stats](https://github-readme-stats-v4run75.vercel.app/api?username=v4run75)](https://github.com/v4run75/github-readme-stats)
 </div>
 
 
