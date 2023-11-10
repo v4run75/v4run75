@@ -1,7 +1,7 @@
 ### Hi there, I am Varun! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats-v4run75.vercel.app/api?username=v4run75&show_icons=true&theme=dark" height="150" alt="stats"/> <br>
+  <img src="https://github-readme-stats-v4run75.vercel.app/api?username=v4run75&show_icons=true&theme=dark" height="180" alt="stats"/> <br>
   <img src="https://streak-stats.demolab.com?user=v4run75&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> <br>
 </div>
 
