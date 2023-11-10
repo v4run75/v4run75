@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=v4run75&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> <br>
+  <img src="https://github-readme-stats.v4run75.vercel.app/api?username=v4run75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="150" alt="stats graph"  /> &nbsp;
+  <img src="https://github-readme-stats.v4run75.vercel.app/api/top-langs/?username=v4run75&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter+&#128529;" height="150" alt="languages graph"  />
+</div>
+
+
 <!--
 **v4run75/v4run75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
